@@ -1,0 +1,17 @@
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe.config
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\bin\Debug\TickTackToe.pdb
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\bin\Debug\BoardPaperGames.dll
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csprojAssemblyReference.cache
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\MainWindow.g.cs
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\App.g.cs
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe_MarkupCompile.cache
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe_MarkupCompile.lref
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\MainWindow.baml
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.g.resources
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.Properties.Resources.resources
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.GenerateResource.cache
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.CoreCompileInputs.cache
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.CopyComplete
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.exe
+C:\Users\shiro\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.pdb
